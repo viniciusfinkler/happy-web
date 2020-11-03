@@ -6,6 +6,8 @@ import { FiArrowRight } from 'react-icons/fi'
 
 import LogoImg from '../images/logo.svg'
 
+// Blblalalbal
+
 function Landing() {
     return(
         <div id="page-landing">
